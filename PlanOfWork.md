@@ -3,7 +3,7 @@ Title: Plan of work
 Date: 06.18.2018
 ---
 
-# Open Data Alliance: Public Records Analysis Governance, and Analysis
+# Open Data Alliance: Public Records Analysis, Governance, and Standards
 
 **Description**   
 My sponsors for the project are David Doyle and Will Saunders. David is from the City of Seattle, and Will is from the State of Washington. The project I would hope to undertake is to collect, collate, and share data about public records requests (PRRs), in order to better serve the citizenry.

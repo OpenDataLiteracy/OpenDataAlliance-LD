@@ -33,9 +33,9 @@ The final output will be a charter for the Open Data Alliance that contains:
 -	Agenda for Meetings (present and future)
 -	Recommendations for identifying data sets to proactively publish as supported by our analysis of requests. 
 -	Appendices 
-o	Thematic Distillation of Interviews – Addressing Concerns 
-o	Resources about Open Data 
-o	Opportunities for Growth & Outreach 
+--	Thematic Distillation of Interviews – Addressing Concerns 
+-- Resources about Open Data 
+-- Opportunities for Growth & Outreach 
 
 **Plan for Sustainability**       
 Managing deliverables will be based on understanding the possible data sources that the State and City have access to. After dialogue with intra-governmental stakeholders and a survey of the number and complexity of the data sources, we can start cleaning, standardizing, and analyzing data.

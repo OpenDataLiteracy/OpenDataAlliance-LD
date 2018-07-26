@@ -3,7 +3,7 @@ Title: Plan of work
 Date: 07.02.2018
 ---
 
-# Open Data Alliance: Public Records Analysis, Governance, and Standards
+# Open Data Alliance
 
 **Description**   
 My sponsors for the project are David Doyle, David Christensen, and Will Saunders. David Doyle is from the City of Seattle, David Christensen is from the Seattle Central Public Library, and Will is from the State of Washington. This project focuses on frequent Public Records Requests and the possibilities for proactive publication, as well as the structuring of a continually Open Data Alliance meeting. 
